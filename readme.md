@@ -8,4 +8,4 @@
   chmod +x install.sh
   ./install.sh
    ```
-  Script is just everything required from [Self-Hosting a Unifi Network Server](https://help.ui.com/hc/en-us/articles/360012282453-Self-Hosting-a-UniFi-Network-Server)
+  Script is just everything required from [Self-Hosting a Unifi Network Server](https://help.ui.com/hc/en-us/articles/360012282453-Self-Hosting-a-UniFi-Network-Server).
